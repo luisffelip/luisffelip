@@ -21,7 +21,7 @@ Me chamo Luis Felipe Barbosa de Azevedo, tenho 19 anos e sou natural de Alagoas.
             style="width:67px;"
         />
     </a>
-    <a href="https://www.linkedin.com/in/seu-usuario-linkedin" target="_blank">
+    <a href="https://www.linkedin.com/in/lu%C3%ADs-felipe-13791330b/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
@@ -29,7 +29,7 @@ Me chamo Luis Felipe Barbosa de Azevedo, tenho 19 anos e sou natural de Alagoas.
             style="width:90px;"
         />
     </a>
-    <a href="https://www.instagram.com/seu-usuario-instagram" target="_blank">
+    <a href="https://www.instagram.com/luissffelipe_" target="_blank">
         <img 
             alt="Instagram" 
             title="Meu Instagram" 

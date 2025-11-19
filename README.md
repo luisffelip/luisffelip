@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Luis Felipe Barbosa de Azevedo, tenho 19 anos e sou natural de Alagoas. Concluí o ensino médio em 2023, e atualmente estou cursando Sistemas de Informação na UFAL. Para entrar em contato comigo, aqui está meu [E-mail](mailto:lfbarbosaaz@gmail.com), e também meu [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-felipe-13791330b/).
+Me chamo Luis Felipe Barbosa de Azevedo, tenho 19 anos e sou natural de Alagoas. Concluí o ensino médio em 2023, e atualmente estou cursando Sistemas de Informação no IFAL. Para entrar em contato comigo, aqui está meu [E-mail](mailto:lfbarbosaaz@gmail.com), e também meu [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-felipe-13791330b/).
 
 <p align="left">
     <a href="mailto:lfbarbosaaz@gmail.com" target="_blank">
